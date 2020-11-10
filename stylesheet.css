@@ -94,3 +94,15 @@ padding: 3px 5px;}
     list-style-type: none;
 }
 pre{style="background-color: rgba(46, 154, 216, 0.575);}
+    .wformat {
+    word-wrap: normal;
+}
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+.container {
+    text-align: center;
+}
+

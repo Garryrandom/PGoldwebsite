@@ -4,7 +4,10 @@ h1 {
   }
 h2 {
     text-align: center;
-padding: 3px 5px;}
+    padding: 3px 5px;
+    font: italic small-caps  30px/30px calibri, serif;
+}
+
 .button {
   border: none;
   color: white;
@@ -94,7 +97,7 @@ padding: 3px 5px;}
     list-style-type: none;
 }
 pre{style="background-color: rgba(46, 154, 216, 0.575);}
-    .wformat {
+.wformat {
     word-wrap: normal;
 }
 .blocktext {
@@ -105,4 +108,3 @@ pre{style="background-color: rgba(46, 154, 216, 0.575);}
 .container {
     text-align: center;
 }
-
